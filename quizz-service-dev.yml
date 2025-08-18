@@ -1,2 +1,2 @@
 config:
-  value: "this is a dev env We are in dev env. Quizz service dev changes after rabbitmq  config"
+  value: "rabbitmqTEst 2 dev env. Quizz service dev changes after rabbitmq  config"
