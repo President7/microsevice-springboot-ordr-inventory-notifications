@@ -36,3 +36,9 @@ eureka:
     register-with-eureka: true
 config:
   value: "This is default service env."
+  
+management:
+  endpoints:
+    web:
+      exposure:
+        include: *      
